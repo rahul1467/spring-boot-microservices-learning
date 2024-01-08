@@ -1,0 +1,4 @@
+com\in28minutes\microservices\userservice\bean\User.class
+com\in28minutes\microservices\userservice\UserServiceApplication.class
+com\in28minutes\microservices\userservice\controller\UserController.class
+com\in28minutes\microservices\userservice\configuration\Configuration.class
